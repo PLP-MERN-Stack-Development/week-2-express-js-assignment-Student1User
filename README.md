@@ -1,11 +1,4 @@
 
-This assignment focuses on building a RESTful API using Express.js, implementing proper routing, middleware, and error handling.
-
-Here's your updated `README.md` with icons and the complete submission checklist:
-
----
-
-````markdown
 # 🚂 Week 2: Express.js – Product API
 
 ## 🚀 Objective
