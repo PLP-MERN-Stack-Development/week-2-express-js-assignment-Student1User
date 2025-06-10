@@ -167,15 +167,16 @@ API_KEY=your-secret-key
 
 ## 📤 Submission Checklist
 
-* [x] All project files committed (`server.js`, routes, controllers, models, middleware)
-* [x] `.env.example` file added
-* [x] This `README.md` with:
+## 📤 Submission Checklist
+- ✅ All project files committed (`server.js`, routes, controllers, models, middleware)
+- ✅ `.env.example` file added
+- ✅ This `README.md` includes:
+  - 🛠️ Setup instructions
+  - 📘 API documentation
+  - 🧪 Examples of requests and responses
+- ✅ Code pushed to GitHub
+- ✅ All features tested using Postman
 
-  * Setup instructions ✅
-  * API documentation ✅
-  * Examples of requests and responses ✅
-* [x] Pushed to GitHub ✔
-* [x] All features tested via Postman ✔
 
 ---
 
